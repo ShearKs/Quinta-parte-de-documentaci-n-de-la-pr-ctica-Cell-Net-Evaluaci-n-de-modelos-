@@ -1,0 +1,2 @@
+# Quinta-parte-de-documentaci-n-de-la-pr-ctica-Cell-Net-Evaluaci-n-de-modelos-
+Quinta parte de la práctica Cell Net: Documentación teórica de Gaussian Naive Bayes para la asignatura de Sistemas de Aprendizaje Automático. Explicación del funcionamiento del algoritmo, suposiciones (independencia condicional y normalidad), proceso de entrenamiento/predicción, ventajas y limitaciones en diagnóstico médico.
