@@ -35,7 +35,7 @@ Gaussian Naive Bayes asume que cada característica sigue una distribución norm
 - Para cada característica calcula la media que es el valor típico o el centro de la campana
 - Desviación estándar (que tan ancha es la campana): Indica cuánto se dispersa los valores respecto a la media y permite saber que tan bien encaja el valor observado con los valores típicos de una clase. Una campana más ancha implica mayor variabilidad, mientras que una más estrecha indica valores más concentrados.
 
-![[gaussian_distributions_real.png]]
+![Distribuciones Gaussianas por Clase](gaussian_distributions_real.png)
 ### 1.3 Suposición de independencia - Naive
 
 El algoritmo se le llama "ingenuo" porque asume que cada característica (diámetros de la célula total y del núcleo) no tiene relación con las demás.
@@ -47,7 +47,7 @@ Esto sería una incongruencia ya que el tamaño de la célula suele indicar si e
 - A pesar de su simplicidad, puede generar fronteras de decisión razonables
 - Presenta un coste computacional bajo, siendo rápido y eficiente en memoria
 
-![[ChatGPT Image 18 feb 2026, 13_07_51.png]]
+![Suposición de Independencia en Naive Bayes](naive_explicacion.png)
 
 ## 2 Proceso de entrenamiento.
 
